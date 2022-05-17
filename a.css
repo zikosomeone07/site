@@ -1,0 +1,76 @@
+p
+{
+	text-align: center; 
+	margin:  100 auto ;
+	width: 700PX ;
+	padding: 10px;
+	border: black 3px solid;
+}
+.hippo img
+
+{
+	width: 270px;
+	box-shadow: 0 0 7PX black;
+	float: right;
+	padding: 10PX;
+	
+}
+
+h2
+{
+text-align: center;
+width: 700PX ;
+font-family: oswald ;
+padding: 5PX;
+;
+}
+h3 
+{
+		float: left;
+	padding: 5PX;
+	text-align: center;
+	width: 700PX;
+	font-family: oswald;
+	
+
+}
+body , html *{
+	padding: 10PX ;
+}
+ .soc img {
+		width: 270px;
+	box-shadow: 0 0 7PX black;
+	float: right;
+	padding: 10PX;
+
+}
+h5 {
+	padding: 0px;
+	text-align: center;
+	font-size: 1em;
+	font-family: calibri ;
+}
+.pitha img
+{
+	width: 270px;
+	box-shadow: 0 0 7PX black;
+	float: right;
+	padding: 10PX;	
+}
+.triangle img
+ { 
+width: 60px;
+ 	box-shadow: 0 0 7PX black;
+	margin: 0px;
+	padding: 10PX;
+	text-align: center;
+}
+h4 
+{
+	padding: 0px;
+	text-align: center;
+	width: 700PX;
+	font-size: 1em;
+	font-family: calibri ;
+}
+}
